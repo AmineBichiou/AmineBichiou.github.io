@@ -1,0 +1,30 @@
+{
+  "name": "Amine Bichiou",
+  "email": "aminebichiou2@gmail.com",
+  "phone": "+216-20319318",
+  "subtitle": "IT Engineering Student",
+  "greeting": "👋 Hello!",
+  "description": "I am a dedicated engineer with a specialization in web and mobile development, supported by a solid foundation in programming languages like Python, C#, Java, and C++. ",
+  "education": "With a <a href=\"#timeline-isetn\">Licence</a> degree, in development practices and expertise in frameworks such as Next.js, Angular, and Flutter, I am passionate about leveraging advanced <a href=\"#skills\">technologies</a> to build impactful and innovative solutions.",
+  "beliefAndGoal": "I believe development can revolutionize user experiences. I aim to create <a href=\"#projects\">projects</a> that enhance functionality and efficiency across applications. 🚀",
+  "socialLinks": {
+    "github": {
+      "url": "https://github.com/AmineBichiou",
+      "title": "GitHub",
+      "strong": "Explore ",
+      "description": "my projects and code on GitHub.",
+      "image": "https://static.wikia.nocookie.net/windows/images/0/01/GitHub_logo_2013.png"
+    },
+    "linkedin": {
+      "url": "https://www.linkedin.com/in/amine-bichiou-03a8882a2/",
+      "title": "LinkedIn",
+      "strong": "Join ",
+      "description": "me on LinkedIn for work connections.",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/640px-LinkedIn_Logo.svg.png"
+    }
+    
+    
+  },
+  "logo": "/my-portfolio/amine.jpg",
+  "resume": "/my-portfolio/resume.pdf"
+}
