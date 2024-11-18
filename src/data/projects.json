@@ -19,6 +19,26 @@
         "link": "https://github.com/aditya30051993/my-portfolio/fork"
       }
     ]
+  },
+  {
+    "title": "InternsHub",
+    "description": "A project dedicated to help Students Find Internships ",
+    "image": "https://opengraph.githubassets.com/[RANDOM_HASH]/AmineBichiou/Portfolio",
+    "linkLabel": "Find More",
+    "linkIcon": "FaGithub",
+    "linkUrl": "https://github.com/AmineBichiou/InternsHubBack",
+    "ctas": [
+      {
+        "icon": "FaRegStar",
+        "label": "Star",
+        "link": "https://github.com/aditya30051993/my-portfolio/stargazers"
+      },
+      {
+        "icon": "FaCodeFork",
+        "label": "Fork",
+        "link": "https://github.com/aditya30051993/my-portfolio/fork"
+      }
+    ]
   }
   
 ]
