@@ -4,10 +4,20 @@
     "logo": "https://isetn.rnu.tn/useruploads/files/logo_face_book.jpg",
     "title": "Higher Institute of Technological Studies of Nabeul",
     "subtitle": "Bachelor’s degree in Information Technologies - Specialization: Information Systems Development - ISETN",
-    "description": "",
+    "description": "Ranked 12th in my generation",
     "start": "2021",
     "end": "2024",
     "id": "isetn"
+  },
+  {
+    "type": "Education",
+    "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Ffr%2Fpng-khzmw&psig=AOvVaw1JHoBMmvnxaxVtGl46kXmx&ust=1732022447392000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCh5sj85YkDFQAAAAAdAAAAABAE",
+    "title": "Private Higher School of Engineering and Technology - ESPRIT",
+    "subtitle": "First Year of Software Engineering - ESPRIT",
+    "description": "",
+    "start": "2024",
+    "end": "2027",
+    "id": "esprit"
   }
  
 ]
